@@ -1,0 +1,12 @@
+{
+  "export_job_id": "45a36e54-bad2-498e-b88a-094f2dc13aab",
+  "id_short": 505484,
+  "published_at": "2026-04-13T07:02:06Z",
+  "repo_name": "restaurant-tiktok-renegades-in-phoenix-mesa-chandler-metro-area-az-us-sample-505484",
+  "sample_asset_name": "beamstation_505484_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/505484/beamstation_505484_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
+  "sample_records": 8,
+  "sample_sha256": "6358fd5ffbce605092218a6e431ce235b72b973886f7dcf8941196e9360f8cfc",
+  "sample_size_bytes": 49802,
+  "total_records": 83
+}
