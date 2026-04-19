@@ -9,9 +9,9 @@
 | Dataset ID | `505484` |
 | Location | Phoenix-Mesa-Chandler, AZ |
 | Category | Restaurants |
-| Full dataset size | 83 records |
-| Free sample size | 8 records (9.64%) |
-| Last export | 2026-04-08T04:21:58.223460+00:00 |
+| Full dataset size | 80 records |
+| Free sample size | 8 records (10.0%) |
+| Last export | 2026-04-15T08:51:14.282329+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-phoenix-mesa-chandler-metro-area-az-us-sample-505484/releases/download/sample-latest/beamstation_505484_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv) |
 
 ## What is in this sample
